@@ -18,5 +18,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Galleria é uma galeria de fotos diversas !
 
-- [Acesse o projeto finalizado, online](https://dougladmo.github.io/photos/)
+- [Acesse o projeto finalizado, online](https://dougladmo.github.io/Galleria/)
 
